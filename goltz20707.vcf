@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:4.0
+N;LANGUAGE=en-us:Goltz;James;P.
+FN:James P. Goltz
+NICKNAME:Jim,Thomas
+KIND:individual
+LANG:en-US
+TZ:America/New_York
+TEL;TYPE=main,pref:+1 (269) 209 1283
+URL:http://goltz20707.mmert.org/
+EMAIL;type=INTERNET;type=MAIN:jgoltz@acm.org
+EMAIL;type=INTERNET:jgoltz@protonmail.ch
+IMPP;TYPE=personal,pref:xmpp:goltz20707@swissjabber.ch
+X-SOCIALPROFILE;type=twitter;x-user=goltz20707:http://twitter.com/goltz20707
+X-SOCIALPROFILE;type=facebook;x-user=jim.goltz1:http://www.facebook.com/jim.goltz1
+X-SOCIALPROFILE;type=linkedin;x-user=goltz20707:http://www.linkedin.com/in/goltz20707
+KEY;MEDIATYPE=application/pgp-keys:http://keys.gnupg.net/pks/lookup?search=0x4E09A8ED
+SOURCE:http://goltz20707.mmert.org/goltz20707.vcf
+REV:20150423T153231Z
+END:VCARD

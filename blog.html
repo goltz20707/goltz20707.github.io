@@ -1,0 +1,36 @@
+---
+layout: default
+title: "goltz20707 blog"
+---
+
+
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="DESCRIPTION" content="James P. GOLTZ: blog" />
+    <title>{{ page.title }}</title>
+    <link href="default.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    
+    <h1>James P&#8756; GOLTZ (goltz20707)<br/>
+      <span class="smaller">Personal blog</span></h1>
+
+    <ul>
+      {% for post in site.posts %}
+      <li>
+	<b><a href="{{ post.url }}">{{ post.title }}</a></b>:<br/>
+	<em>{{ post.excerpt }}</em>
+      </li>
+      {% endfor %}
+    </ul>
+    
+    {% include footer.html %}
+    
+  </body>
+  
+</html>
