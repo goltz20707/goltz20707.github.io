@@ -1,0 +1,39 @@
+/* -*- c -*- */
+
+/* 
+   Default style sheet for this site.  Designed using the W3C
+   Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification
+   at http://www.w3.org/TR/CSS2/.
+*/
+
+/* Classes */
+.smaller { font-size: smaller; }
+.bitcoin { font-family: monospace; }
+.code { font-family: monospace; }
+
+/* Lists */
+ol.note {
+  color: black;
+  background-color: rgb(225,220,225);
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 0.5em;
+  border-style: solid;
+  border-width: thin;
+  border-color: black;
+}
+
+ol.note li { margin-left: 3%; }
+
+dl dt { font-style: italic; font-weight: bold; }
+
+dt {
+  font-style: italic;
+  font-weight: bold;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+/* Defaults for various tags. */
+h1 { font-family: sans-serif; }
+h2 { font-family: cursive; }
