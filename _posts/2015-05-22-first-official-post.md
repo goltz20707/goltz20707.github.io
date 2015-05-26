@@ -4,12 +4,6 @@ title: First official post
 excerpt: In which I introduce the blog, very badly.
 ---
 
-{{ page.title }}
-================
-
-{{ page.excerpt }}
-------------------
-
 Hello!  This is an attempt at circumventing social media.  After *yet
 another change* to Facebook's GUI's behavior, I decided to see if there
 was a way to abandon it and use something else.  I have already been
