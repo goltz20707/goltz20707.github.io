@@ -4,8 +4,6 @@ title: First official post
 excerpt: In which I introduce the blog, very badly.
 ---
 
-{% include blog-header.html %}
-
 Hello!  This is an attempt at circumventing social media.  After *yet
 another change* to Facebook's GUI's behavior, I decided to see if there
 was a way to abandon it and use something else.  I have already been
@@ -24,5 +22,3 @@ eventually echo links to this blog to my
 an [RSS feed](http://goltz20707.mmert.org/feed.xml).
 
 That's all for now.  Stay tuned.
-
-{% include blog-footer.html %}
