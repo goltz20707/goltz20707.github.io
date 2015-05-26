@@ -4,6 +4,9 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
+      name: "goltz20707 blog"
+      description: "Just some random blog."
+      url: /foo/bar
   -
     scope:
       path: ""
