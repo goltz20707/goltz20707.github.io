@@ -2,6 +2,7 @@
 layout: post
 title: First official post
 excerpt: In which I introduce the blog, very badly.
+date: 2015-05-22 12:34:56
 ---
 
 Hello!  This is an attempt at circumventing social media.  After *yet
