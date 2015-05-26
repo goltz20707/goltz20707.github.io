@@ -10,7 +10,8 @@
 .smaller { font-size: smaller; }
 .bitcoin { font-family: monospace; }
 .code { font-family: monospace; }
-
+.nav { font-style: italic; }
+  
 /* Lists */
 ol.note {
   color: black;
