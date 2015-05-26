@@ -1,6 +1,6 @@
 name: "goltz20707 blog"
 description: "Just some random blog."
-url: /foo/bar
+url: http://goltz20707.mmert.org
 
 defaults:
   -
