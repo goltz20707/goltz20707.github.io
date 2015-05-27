@@ -8,7 +8,10 @@
 
 /* Use a font from the Google Fonts API: */
 @import url("http://fonts.googleapis.com/css?family=Pinyon+Script");
-	    
+
+/* Overall defaults. */
+body { max-width: 750px; margin: 25px; }
+
 /* Classes */
 .smaller { font-size: smaller; }
 .bitcoin { font-family: monospace; }
