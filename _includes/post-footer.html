@@ -1,11 +1,11 @@
 
 <div class="nav">
   {% if page.previous.url %} 
-  &xlarr;<a class="prev" href="{{page.previous.url}}">Previous:
+  &lArr;<a class="prev" href="{{page.previous.url}}">Previous:
   {{page.previous.excerpt}} ({{page.previous.date | date: '-%m-%d'}})</a><br/>
   {% endif %} 
   {% if page.next.url %} 
-  &xrarr;<a class="prev" href="{{page.next.url}}">Next:
+  &rArr;<a class="prev" href="{{page.next.url}}">Next:
   {{page.next.excerpt}} ({{page.next.date | date: '-%m-%d'}})</a>
   {% endif %} 
 </div>
