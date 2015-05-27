@@ -6,6 +6,9 @@
    at http://www.w3.org/TR/CSS2/.
 */
 
+/* Use a font from the Google Fonts API: */
+@import url("http://fonts.googleapis.com/css?family=Pinyon+Script");
+	    
 /* Classes */
 .smaller { font-size: smaller; }
 .bitcoin { font-family: monospace; }
@@ -37,4 +40,4 @@ dt {
 
 /* Defaults for various tags. */
 /* h1 { font-family: sans-serif; } */
-/* h2 { font-family: cursive; } */
+h2 { font-family: 'Pinyon Script', cursive; }
