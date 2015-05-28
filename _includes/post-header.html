@@ -1,4 +1,11 @@
-<h1><q>{{ page.title }}</q></h1>
+{% if page.previous.url %} 
+<span style="font-style: normal">&lArr;</span><a class="prev" href="{{page.previous.url}}">Previous</a><br/>
+{% endif %} 
+{% if page.next.url %} 
+<a class="prev" href="{{page.next.url}}">Next</a><span style="font-style: normal">&rArr;</span>
+{% endif %} 
+
+  <h1><q>{{ page.title }}</q></h1>
 
 <h2>{{ page.excerpt }}</h2>
 

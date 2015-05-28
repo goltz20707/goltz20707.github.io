@@ -3,11 +3,11 @@
 <div class="nav">
   {% if page.previous.url %} 
   <span style="font-style: normal">&lArr;</span><a class="prev" href="{{page.previous.url}}">Previous:
-  {{page.previous.excerpt}} ({{page.previous.date | date: '-%m-%d'}})</a><br/>
+  {{page.previous.title}} ({{page.previous.excerpt}}: {{page.previous.date | date: '-%m-%d'}})</a><br/>
   {% endif %} 
   {% if page.next.url %} 
   <span style="font-style: normal">&rArr;</span><a class="prev" href="{{page.next.url}}">Next:
-  {{page.next.excerpt}} ({{page.next.date | date: '-%m-%d'}})</a>
+  {{page.next.title}} ({{page.next.excerpt}}: {{page.next.date | date: '-%m-%d'}})</a>
   {% endif %} 
 </div>
 
