@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Civil War Pizza"
-excerpt: "In which I recount how an obscure TV show made me visit Gettysburg"
+excerpt: "In which I recount how an obscure TV show made me visit Gettysburg."
 tags:
 ---
 I've told this story before, but I like telling it.
