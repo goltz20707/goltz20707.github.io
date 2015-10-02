@@ -43,7 +43,7 @@ itself:
 
 \\[= \frac{2 + 2\\sqrt{5}}{4} + \frac{4}{4}\\]
 
-\\[= \\phi + 1]
+\\[= \\phi + 1\\]
 
 So \\(\\phi^2 = \\phi + 1\\).  This means:
 
@@ -81,6 +81,5 @@ and so on.  Now, \\(\\phi = 1.61803...\\), and in fact the ratio of
 adjacent Fibonacci numbers approaches \\(\\phi\\) as we go to
 infinity.  Or in mathematical terms:
 
-\\[\\lim_{n\\to\\infty} \\frac{F_n}{F_{n-1}} = \\phi\\]
-
+`\\[\\lim_{n\\to\\infty} \\frac{F_n}{F_{n-1}} = \\phi\\]`
 Cool, huh?
