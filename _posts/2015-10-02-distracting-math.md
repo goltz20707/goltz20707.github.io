@@ -82,4 +82,5 @@ adjacent Fibonacci numbers approaches \\(\\phi\\) as we go to
 infinity.  Or in mathematical terms:
 
 \\[\\lim\_{n\\to\\infty} \\frac{F_n}{F\_{n-1}} = \\phi\\]
+
 Cool, huh?
