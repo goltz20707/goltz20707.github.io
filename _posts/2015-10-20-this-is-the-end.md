@@ -38,7 +38,7 @@ lot of things on my mind lately:
   don't expect the polar ice caps to survive past 2050.)
 
 * Record ocean temperatures across the planet are causing coral
-  bleaching events --- essentially, dead coral reefs -- across the
+  bleaching events --- essentially, dead coral reefs --- across the
   globe.
 
 
