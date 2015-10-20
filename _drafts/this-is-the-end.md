@@ -2,7 +2,7 @@
 layout: post
 title: This Is The End
 excerpt: In which I ruminate on the End Times.
-date: 2015-10-19 15:23:30 -0400
+date: 2015-10-20 14:06:30 -0400
 ---
 
 Disclaimer: I am not a prophet.
@@ -36,6 +36,11 @@ lot of things on my mind lately:
   decomposing are showing up off the Pacific Northwest coast --- a
   harbinger of a rapid acceleration in climate change.  (Personally, I
   don't expect the polar ice caps to survive past 2050.)
+
+* Record ocean temperatures across the planet are causing coral
+  bleaching events --- essentially, dead coral reefs -- across the
+  globe.
+
 
 I don't believe any of this is the result of any prophecy, or any
 outside and/or supernatural forces.
