@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  
+  <channel>
+
+    <title>Foreign Affairs, November/December 2015</title>
+    <description>Foreign Affairs magazine for November/December 2015</description>
+    <link>https://www.foreignaffairs.com/magazine</link>
+    <language>en-us</language>
+    <copyright>Copyright 2015</copyright>
+    <lastBuildDate>Tue, 27 Oct, 2015 12:06:19 -0400</lastBuildDate>
+    <pubDate>Tue, 27 Oct, 2015 12:06:19 -0400</pubDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <webMaster>jgoltz@acm.org</webMaster>
+    <ttl>60</ttl>
+
+    <itunes:author>jgoltz @ acm.org</itunes:author>
+    <itunes:subtitle>Foreign Affairs magazine for November/December 2015</itunes:subtitle>
+    <itunes:summary>Foreign Affairs magazine for November/December 2015</itunes:summary>
+    <itunes:owner>
+           <itunes:name>Jim Goltz</itunes:name>
+           <itunes:email>jgoltz@acm.org</itunes:email>
+    </itunes:owner>
+
+<itunes:explicit>No</itunes:explicit>
+
+<itunes:image href="http://www.podcast411.com/img/411_itunes.jpg"/>
+    
+<itunes:category text="Politics">
+     <itunes:category text="Podcasting"/>
+</itunes:category>
+
+
+<item>
+<title>Why Israel Waits: Anti-Solutionism as a Strategy</title>
+<link>http://podcast411.com/forums/viewtopic.php?t=531</link>
+<guid>https://dl-web.dropbox.com/get/Foreign%20Affairs/pe_fore_010327_Article%2010.mp3?_subject_uid=224374318&w=AAARXndFRPZEyZNm9tl1WqsJD5zi0pQvLMiubgAy0PxM7w</guid>
+<description>By Natan Sachs</description>
+<enclosure url="https://dl-web.dropbox.com/get/Foreign%20Affairs/pe_fore_010327_Article%2010.mp3?_subject_uid=224374318&w=AAARXndFRPZEyZNm9tl1WqsJD5zi0pQvLMiubgAy0PxM7w" length="30468210" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Sun, 01 Nov 2015 00:00:00 -0400</pubDate>
+
+<itunes:author>jgoltz @ acm.org</itunes:author>
+
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>Why Israel Waits: Anti-Solutionism as a Strategy</itunes:subtitle>
+<itunes:summary>Why Israel Waits: Anti-Solutionism as a Strategy</itunes:summary>
+<itunes:duration>00:31:44</itunes:duration>
+<itunes:keywords>Israel</itunes:keywords>
+</item>
+
+</channel>
+
+</rss>
+
