@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New email address!
-excerpt: In which I briefly rhapsodic about ProtonMail.
+excerpt: In which I briefly wax rhapsodic about ProtonMail.
 date: 2016-02-29 14:04:57 -0500
 ---
 
