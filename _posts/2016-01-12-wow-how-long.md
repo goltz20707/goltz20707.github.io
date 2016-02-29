@@ -9,10 +9,10 @@ Once again I've failed to keep this blog up-to-date.  This time it's
 been nearly three months!
 
 Hopefully --- and I know I've said this before --- I'll be posting
-here more regularly.  Lately my blog-of-last-resotr, Facebook, has
+here more regularly.  Lately my blog-of-last-resort, Facebook, has
 been really pissing me off:
 
-1. The continue to change the user interface without notice, and (as
+1. They continue to change the user interface without notice, and (as
 far as I can tell) without any overarching plan.  If I'm used to
 reading people's posts in reverse chronological order, why does
 Facebook insist on changing that to "top stories"?  How does Facebook
