@@ -2,7 +2,7 @@
 layout: post
 title: Title
 excerpt: In which I blah blah blah.
-date: 2015-05-22 12:34:56 -0400
+date: INSERT date '+%Y-%m-%d %T %z'
 ---
 
 *emphasis*
