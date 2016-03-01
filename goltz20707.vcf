@@ -8,7 +8,8 @@ LANG:en-US
 TZ:America/New_York
 TEL;TYPE=main,pref:+1 (269) 209 1283
 URL:http://goltz20707.mmert.org/
-EMAIL;type=INTERNET;type=MAIN:jgoltz@acm.org
+EMAIL;type=INTERNET;type=MAIN:goltz@mmert.org
+EMAIL;type=INTERNET;jgoltz@acm.org
 EMAIL;type=INTERNET:jgoltz@protonmail.ch
 IMPP;TYPE=personal,pref:xmpp:goltz20707@swissjabber.ch
 X-SOCIALPROFILE;type=twitter;x-user=goltz20707:http://twitter.com/goltz20707
