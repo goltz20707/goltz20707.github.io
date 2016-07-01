@@ -5,9 +5,7 @@
   <channel>
 
     <title>Ne Plus Inutile, the World's Worst Podcast</title>
-    <description>The title is very bad Latin for "nothing more
-    useless", which is a pretty good description of this podcast with
-    no discernable focus and only occasional updates.  1 star.</description>
+    <description>The title is very bad Latin for "nothing more useless", which is a pretty good description of this podcast with no discernable focus and only occasional updates.  1 star.</description>
     <link>http://goltz20707.mmert.org/</link>
     <language>en-us</language>
     <copyright>Copyright 2016</copyright>
@@ -18,11 +16,8 @@
     <ttl>60</ttl>
 
     <itunes:author>jgoltz @ acm.org</itunes:author>
-    <itunes:subtitle>Ne Plus Inutile is very bad Latin for "nothing more
-    useless".</itunes:subtitle>
-    <itunes:summary>Ne Plus Inutile is very bad Latin for "nothing more
-    useless", which is a pretty good description of this podcast with
-    no discernable focus and only occasional updates.</itunes:summary>
+    <itunes:subtitle>Ne Plus Inutile is very bad Latin for "nothing more useless".</itunes:subtitle>
+    <itunes:summary>Ne Plus Inutile is very bad Latin for "nothing more useless", which is a pretty good description of this podcast with no discernable focus and only occasional updates.</itunes:summary>
     <itunes:owner>
            <itunes:name>James P. Goltz</itunes:name>
            <itunes:email>jgoltz@acm.org</itunes:email>
@@ -37,8 +32,7 @@
 <title>Episode 1: Just Taking Up Space</title>
 <link>https://archive.org/download/npi-001/npi-001.mp3</link>
 <guid isPermaLink="true">https://archive.org/download/npi-001/npi-001.mp3</guid>
-<description>25 seconds.  Think of it as the podcast equivalent
-of clearing one's throat.</description>
+<description>Think of this as the podcast equivalent of clearing one's throat.</description>
 <enclosure url="https://archive.org/download/npi-001/npi-001.mp3" length="503107" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Fri, 1 Ju1 2016 20:00:00 +0000</pubDate>
@@ -46,20 +40,17 @@ of clearing one's throat.</description>
 <itunes:author>James P. Goltz</itunes:author>
 
 <itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>25 seconds.  Think of it as the podcast equivalent
-of clearing one's throat.</itunes:subtitle>
-<itunes:summary>25 seconds.  Think of it as the podcast equivalent
-of clearing one's throat.</itunes:summary>
+<itunes:subtitle>Think of this as the podcast equivalent of clearing one's throat.</itunes:subtitle>
+<itunes:summary>Think of this as the podcast equivalent of clearing one's throat.</itunes:summary>
 <itunes:duration>00:00:25</itunes:duration>
 <itunes:keywords>podcast, npi, goltz20707, worst</itunes:keywords>
 </item>
 
 <item>
-<title>Episode 0: Episode 0: What's In The Box, Frank?</title>
+<title>Episode 0: What's In The Box, Frank?</title>
 <link>https://archive.org/download/npi-000/npi-000.mp3</link>
 <guid isPermaLink="true">https://archive.org/download/npi-000/npi-000.mp3</guid>
-<description>50 seconds. The superhero origin story of Ne Plus
-      Inutile, at least until "Crisis on Infinite Storage".</description>
+<description>The superhero origin story of Ne Plus Inutile, at least until "Crisis on Infinite Storage".</description>
 <enclosure url="https://archive.org/download/npi-000/npi-000.mp3" length="984110" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Fri, 8 Jun 2016 16:00:00 +0000</pubDate>
@@ -67,10 +58,8 @@ of clearing one's throat.</itunes:summary>
 <itunes:author>James P. Goltz</itunes:author>
 
 <itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>50 seconds. The superhero origin story of Ne Plus
-      Inutile, at least until "Crisis on Infinite Storage".</itunes:subtitle>
-<itunes:summary>50 seconds. The superhero origin story of Ne Plus
-      Inutile, at least until "Crisis on Infinite Storage".</itunes:summary>
+<itunes:subtitle>The superhero origin story of Ne Plus Inutile, at least until "Crisis on Infinite Storage".</itunes:subtitle>
+<itunes:summary>The superhero origin story of Ne Plus Inutile, at least until "Crisis on Infinite Storage".</itunes:summary>
 <itunes:duration>00:00:50</itunes:duration>
 <itunes:keywords>podcast, npi, goltz20707, worst</itunes:keywords>
 </item>
