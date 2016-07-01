@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Hope this works! -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Ne Plus Inutile, the World's Worst Podcast</title>
+    <description>The title is very bad Latin for "nothing more
+    useless", which is a pretty good description of this podcast with
+    no discernable focus and only occasional updates.  1 star.</description>		
+    <link>http://goltz20707.mmert.org/npi.xml</link>
+    <atom:link href="http://goltz20707.mmert.org/npi.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Episode 1: Just Taking Up Space</title>
+              
+      
+      <description>25 seconds.  Think of it as the podcast equivalent
+      of clearing one's throat.</description>
+      
+      <pubDate>Fri, 1 Ju1 2016 20:00:00 +0000</pubDate>
+      <link>https://archive.org/download/npi-001/npi-001.mp3</link>
+      <guid isPermaLink="true">https://archive.org/download/npi-001/npi-001.mp3</guid>
+    </item>
+    
+    <item>
+      <title>Episode 0: What's In This Box?</title>
+              
+      
+      <description>49 seconds.  The superhero origin story of Ne Plus
+      Inutile, at least until Crisis on Infinite Storage.</description>
+      
+      <pubDate>Fri, 8 Jun 2016 16:00:00 +0000</pubDate>
+      <link>https://archive.org/download/npi-001/npi-001.mp3</link>
+      <guid isPermaLink="true">https://archive.org/download/npi-000/npi-000.mp3</guid>
+    </item>
+    
+  </channel>
+</rss>
