@@ -4,8 +4,8 @@
   
   <channel>
 
-    <title>Ne Plus Inutile, the World's Worst Podcast</title>
-    <description>The title is very bad Latin for "nothing more useless", which is a pretty good description of this podcast with no discernable focus and only occasional updates.  1 star.</description>
+    <title>Ne Plus Inutile</title>
+    <description>The World's Worst Podcast.  The title is very bad Latin for "nothing more useless", which is a pretty good description of this podcast with no discernable focus and only occasional updates.  1 star.</description>
     <link>http://goltz20707.mmert.org/</link>
     <language>en-us</language>
     <copyright>Copyright 2016</copyright>
@@ -15,9 +15,9 @@
     <webMaster>jgoltz@acm.org</webMaster>
     <ttl>60</ttl>
 
-    <itunes:author>jgoltz @ acm.org</itunes:author>
+    <itunes:author>James P. Goltz</itunes:author>
     <itunes:subtitle>Ne Plus Inutile is very bad Latin for "nothing more useless".</itunes:subtitle>
-    <itunes:summary>Ne Plus Inutile is very bad Latin for "nothing more useless", which is a pretty good description of this podcast with no discernable focus and only occasional updates.</itunes:summary>
+    <itunes:summary>The World's Worst Podcast.  "Ne Plus Inutile" is very bad Latin for "nothing more useless", which is a pretty good description of this podcast with no discernable focus and only occasional updates.</itunes:summary>
     <itunes:owner>
            <itunes:name>James P. Goltz</itunes:name>
            <itunes:email>jgoltz@acm.org</itunes:email>
