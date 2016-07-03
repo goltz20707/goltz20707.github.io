@@ -50,7 +50,7 @@
 <title>Episode 0: What's In The Box, Frank?</title>
 <link>https://archive.org/download/npi-000/npi-000.mp3</link>
 <guid isPermaLink="true">https://archive.org/download/npi-000/npi-000.mp3</guid>
-<description>The superhero origin story of Ne Plus Inutile, at least until "Crisis on Infinite Storage".</description>
+<description>The superhero origin story of Ne Plus Inutile, at least until "Crisis on Infinite Storage" (description).</description>
 <enclosure url="https://archive.org/download/npi-000/npi-000.mp3" length="984110" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Fri, 8 Jun 2016 16:00:00 +0000</pubDate>
@@ -58,8 +58,8 @@
 <itunes:author>James P. Goltz</itunes:author>
 
 <itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>The superhero origin story of Ne Plus Inutile, at least until "Crisis on Infinite Storage".</itunes:subtitle>
-<itunes:summary>The superhero origin story of Ne Plus Inutile, at least until "Crisis on Infinite Storage".</itunes:summary>
+<itunes:subtitle>The superhero origin story of Ne Plus Inutile, at least until "Crisis on Infinite Storage" (itunes subtitle).</itunes:subtitle>
+<itunes:summary>The superhero origin story of Ne Plus Inutile, at least until "Crisis on Infinite Storage" (itunes summary).</itunes:summary>
 <itunes:duration>00:00:50</itunes:duration>
 <itunes:keywords>podcast, npi, goltz20707, worst</itunes:keywords>
 </item>
