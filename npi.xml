@@ -27,6 +27,23 @@
 
 <itunes:image href="http://goltz20707.mmert.org/images/brand.gif"/>
     
+<item>
+<title>Episode 2: Muttering in the Morning</title>
+<link>https://archive.org/download/npi-002/npi-002.mp3</link>
+<guid isPermaLink="true">https://archive.org/download/npi-002/npi-002.mp3</guid>
+<description>I had some time before leaving for work.</description>
+<enclosure url="https://archive.org/download/npi-002/npi-002.mp3" length="1346188" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 5 Ju1 2016 07:15:00 -0400</pubDate>
+
+<itunes:author>James P. Goltz</itunes:author>
+
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>I had some time before leaving for work.</itunes:subtitle>
+<itunes:summary>I had some time before leaving for work.</itunes:summary>
+<itunes:duration>00:01:07</itunes:duration>
+<itunes:keywords>podcast, npi, goltz20707, worst</itunes:keywords>
+</item>
 
 <item>
 <title>Episode 1: Just Taking Up Space</title>
