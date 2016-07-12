@@ -9,8 +9,8 @@
     <link>http://goltz20707.mmert.org/</link>
     <language>en-us</language>
     <copyright>Copyright 2016 James P. Goltz &lt;jgoltz@acm.org&gt;</copyright>
-    <lastBuildDate>Tue, 12 Jul 2016 08:55:00 -0400</lastBuildDate>
-    <pubDate>Tue, 12 Jul 2016 08:55:00 -0400</pubDate>
+    <lastBuildDate>Tue, 12 Jul 2016 19:20:00 -0400</lastBuildDate>
+    <pubDate>Tue, 12 Jul 2016 19:20:00 -0400</pubDate>
     <docs>http://goltz20707.mmert.org/</docs>
     <webMaster>jgoltz@acm.org</webMaster>
     <ttl>60</ttl>
@@ -26,6 +26,27 @@
 <itunes:explicit>Yes</itunes:explicit>
 
 <itunes:image href="http://goltz20707.mmert.org/images/brand.gif"/>
+
+<item>
+<title>Episode 4: The Rustling 2: The Re-enrustlening</title>
+<link>https://archive.org/download/npi-004/npi-004.mp3</link>
+<guid isPermaLink="true">https://archive.org/download/npi-004/npi-004.mp3</guid>
+<description>I try again, and have finally pinpointed the source of
+the rustling.  Not that you can tell from this episode.</description>
+<enclosure url="https://archive.org/download/npi-004/npi-004.mp3" length="1097040" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 12 Jul 2016 17:30:00 -0400</pubDate>
+
+<itunes:author>James P. Goltz</itunes:author>
+
+<itunes:explicit>Yes</itunes:explicit>
+<itunes:subtitle>I try again, and have finally pinpointed the source of
+the rustling.  Not that you can tell from this episode.</itunes:subtitle>
+<itunes:summary>I try again, and have finally pinpointed the source of
+the rustling.  Not that you can tell from this episode.</itunes:summary>
+<itunes:duration>00:00:54</itunes:duration>
+<itunes:keywords>podcast, npi, goltz20707, worst</itunes:keywords>
+</item>
 
 <item>
 <title>Episode 3: Mysterious Rustling</title>
