@@ -9,8 +9,8 @@
     <link>http://goltz20707.mmert.org/</link>
     <language>en-us</language>
     <copyright>Copyright 2016 James P. Goltz &lt;jgoltz@acm.org&gt;</copyright>
-    <lastBuildDate>Tue, 05 Jul 2016 07:15:00 -0400</lastBuildDate>
-    <pubDate>Tue, 05 Jul 2016 07:15:00 -0400</pubDate>
+    <lastBuildDate>Tue, 12 Jul 2016 08:55:00 -0400</lastBuildDate>
+    <pubDate>Tue, 12 Jul 2016 08:55:00 -0400</pubDate>
     <docs>http://goltz20707.mmert.org/</docs>
     <webMaster>jgoltz@acm.org</webMaster>
     <ttl>60</ttl>
@@ -26,7 +26,28 @@
 <itunes:explicit>Yes</itunes:explicit>
 
 <itunes:image href="http://goltz20707.mmert.org/images/brand.gif"/>
-    
+
+<item>
+<title>Episode 3: Mysterious Rustling</title>
+<link>https://archive.org/download/npi-003/npi-003.mp3</link>
+<guid isPermaLink="true">https://archive.org/download/npi-003/npi-003.mp3</guid>
+<description>I may be taking this "world's worst podcast" thing a bit
+too far.</description>
+<enclosure url="https://archive.org/download/npi-003/npi-003.mp3" length="1441200" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Tue, 12 Jul 2016 08:55:00 -0400</pubDate>
+
+<itunes:author>James P. Goltz</itunes:author>
+
+<itunes:explicit>Yes</itunes:explicit>
+<itunes:subtitle>I may be taking this "world's worst podcast" thing a bit
+too far.</itunes:subtitle>
+<itunes:summary>I may be taking this "world's worst podcast" thing a bit
+too far.</itunes:summary>
+<itunes:duration>00:01:12</itunes:duration>
+<itunes:keywords>podcast, npi, goltz20707, worst</itunes:keywords>
+</item>
+
 <item>
 <title>Episode 2: Muttering in the Morning</title>
 <link>https://archive.org/download/npi-002/npi-002.mp3</link>
