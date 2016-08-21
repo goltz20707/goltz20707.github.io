@@ -9,8 +9,8 @@
     <link>http://goltz20707.mmert.org/</link>
     <language>en-us</language>
     <copyright>Copyright 2016 James P. Goltz &lt;jgoltz@acm.org&gt;</copyright>
-    <lastBuildDate>Thu, 28 Jul 2016 22:11:00 -0400</lastBuildDate>
-    <pubDate>Thu, 28 Jul 2016 20:30:00 -0400</pubDate>
+    <lastBuildDate>Sun, 21 Aug 2016 12:55:00 -0400</lastBuildDate>
+    <pubDate>Sun, 21 Aug 2016 12:55:00 -0400</pubDate>
     <docs>http://goltz20707.mmert.org/</docs>
     <webMaster>jgoltz@acm.org</webMaster>
     <ttl>60</ttl>
@@ -26,6 +26,42 @@
 <itunes:explicit>Yes</itunes:explicit>
 
 <itunes:image href="http://goltz20707.mmert.org/images/brand.gif"/>
+
+<item>
+<title>Episode 9: This Is An Interview?</title>
+<link>https://archive.org/download/npi-009/npi-009.mp3</link>
+<guid isPermaLink="true">https://archive.org/download/npi-009/npi-009.mp3</guid>
+<description>With special guest co-hosts!</description>
+<enclosure url="https://archive.org/download/npi-009/npi-009.mp3" length="1545600" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Sat, 20 Aug Jul 2016 21:33:00 -0400</pubDate>
+
+<itunes:author>James P. Goltz</itunes:author>
+
+<itunes:explicit>Yes</itunes:explicit>
+<itunes:subtitle>With special guest co-hosts!</itunes:subtitle>
+<itunes:summary>With special guest co-hosts!</itunes:summary>
+<itunes:duration>00:01:17</itunes:duration>
+<itunes:keywords>podcast, npi, goltz20707, worst</itunes:keywords>
+</item>
+
+<item>
+<title>Episode 7: Shhh, I'm Busy</title>
+<link>https://archive.org/download/npi-007/npi-007.mp3</link>
+<guid isPermaLink="true">https://archive.org/download/npi-007/npi-007.mp3</guid>
+<description>In which I watch TV and waste your time.</description>
+<enclosure url="https://archive.org/download/npi-007/npi-007.mp3" length="3725853" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Thu, 28 Jul 2016 20:30:00 -0400</pubDate>
+
+<itunes:author>James P. Goltz</itunes:author>
+
+<itunes:explicit>Yes</itunes:explicit>
+<itunes:subtitle>In which I watch TV and waste your time.</itunes:subtitle>
+<itunes:summary>In which I watch TV and waste your time.</itunes:summary>
+<itunes:duration>00:03:06</itunes:duration>
+<itunes:keywords>podcast, npi, goltz20707, worst</itunes:keywords>
+</item>
 
 <item>
 <title>Episode 7: Shhh, I'm Busy</title>
