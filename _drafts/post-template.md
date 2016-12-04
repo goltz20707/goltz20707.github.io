@@ -39,5 +39,5 @@ Or, if you prefer, __use two underscores instead__.
    item two.
 3. Item 3.
 
-Click [here](http://goltz20707.mmert.org/) to go back to the home page.
+Click [here](https://goltz20707.mmert.org/) to go back to the home page.
 

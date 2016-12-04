@@ -21,5 +21,5 @@ domains (hence "goltz@mmert.org" and not "jgoltz@protonmail.ch").
 [Have a look for yourself!](https://protonmail.com/about)
 
 
-Click [here](http://goltz20707.mmert.org/) to go back to the home page.
+Click [here](https://goltz20707.mmert.org/) to go back to the home page.
 

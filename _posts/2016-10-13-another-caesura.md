@@ -14,4 +14,4 @@ to say nothing of the various social media accounts I have.
 
 Stay tuned.
 
-Click [here](http://goltz20707.mmert.org/) to go back to the home page.
+Click [here](https://goltz20707.mmert.org/) to go back to the home page.

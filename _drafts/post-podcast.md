@@ -10,5 +10,5 @@ date: INSERT date '+%Y-%m-%d %T %z'
 <iframe src="https://archive.org/embed/npi-%%EPNUM%%" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
-Click [here](http://goltz20707.mmert.org/) to go back to the home page.
+Click [here](https://goltz20707.mmert.org/) to go back to the home page.
 

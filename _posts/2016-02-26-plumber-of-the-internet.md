@@ -67,5 +67,5 @@ we never think about until no one is doing them.
 I'm not a wizard.  I'm a plumber.
 
 
-Click [here](http://goltz20707.mmert.org/) to go back to the home page.
+Click [here](https://goltz20707.mmert.org/) to go back to the home page.
 

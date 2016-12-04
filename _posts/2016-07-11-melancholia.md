@@ -29,5 +29,5 @@ than anything else.
 I need to go for a walk.
 
 
-Click [here](http://goltz20707.mmert.org/) to go back to the home page.
+Click [here](https://goltz20707.mmert.org/) to go back to the home page.
 

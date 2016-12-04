@@ -20,6 +20,6 @@ eventually echo links to this blog to my
 [Twitter](https://twitter.com/goltz20707),
 [Facebook](https://www.facebook.com/jim.goltz1), and
 [Google+](https://plus.google.com/+bana2s/posts) pages.  I also have
-an [RSS feed](http://goltz20707.mmert.org/feed.xml).
+an [RSS feed](https://goltz20707.mmert.org/feed.xml).
 
 That's all for now.  Stay tuned.
