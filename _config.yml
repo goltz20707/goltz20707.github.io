@@ -1,6 +1,7 @@
 name: "goltz20707 blog"
 description: "Just some random blog."
-url: http://goltz20707.mmert.org
+url: https://goltz20707.mmert.org
+enforce_ssl: goltz20707.mmert.org
 
 defaults:
   -
