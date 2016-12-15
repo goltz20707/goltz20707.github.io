@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/goltz20707
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://goltz20707.mmert.org
+  * I am goltz20707 (https://keybase.io/goltz20707) on keybase.
+  * I have a public key with fingerprint A8EB A189 C2A8 431A 30F6  99AE 7FA6 A207 248F BEE8
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101ae14dfaffa8ffa5bf615927cd207c0fd45ec0e0aec5e32d949d2d3e8d040855c0a",
+            "fingerprint": "a8eba189c2a8431a30f699ae7fa6a207248fbee8",
+            "host": "keybase.io",
+            "key_id": "7fa6a207248fbee8",
+            "kid": "0101ae14dfaffa8ffa5bf615927cd207c0fd45ec0e0aec5e32d949d2d3e8d040855c0a",
+            "uid": "be62c4de0ec1c6d9ee3cb84688d32819",
+            "username": "goltz20707"
+        },
+        "service": {
+            "hostname": "goltz20707.mmert.org",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1481816317,
+    "expire_in": 157680000,
+    "prev": "2e954a4a875c49308c05720ef418b68f98de591977c3046f3250be24f9feb33a",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtkmtsFFUUx3eXliBC0hQIJOVhR9aIbJo77zurAWMNJMTW8NCalrDcmTmzHba7
+s84MpWVd0LbSlEcAUWwCbQWlNiWUTSqSGkLTCGmlJaQYUpTaWFB0fSA2io9K9E6j
+n/SjN7m5OSf//++ce3IOzJ7mC/jVhgG9w3271z+YVX0vrOtZlGJUS69lwikmBlMP
+VOnguJGYqTNhBrGIJcAKukEMg2B6RdWQWFHhZE3nkKwhQxdE0BAgApoIPKcrgqJz
+Og9YRwLCoqghwoQYw0xEwU7aZsKlWIJBJSxWNI5ggWcJjwxJUQjIBpEIxXICNlQA
+TI2VluM5aHMqcaDItGiOBpGp9v5D/z/3vXUKp4LEaYIOCDRWk3QFgNdULEgY6zyH
+WcUTOmAnSByoOmpVudtpESQz6RBD89WmBt5ovb/8S1MUj4PtFll2lFKStuVamlVF
+FZWum3TCHsGtTXqWbaBG/oZFVDOh04lSRzXYjmklmDBLlZprenRWwCxmJZ6VQwzU
+JE0bIqanEGUJI3q8OlCtUiYHiigQgWBZ1ASFR1hDoswhMAQWqxI2FKyDqLCKLGs8
+EiSD50SkAicYigEqz3sTcuDFhMWEaSmXRCnSMaMJ4m61gUnPbPIfzfH5A77puQFv
+13wzH8j7ZwEbtVm+7huZifnHtplD7eK3gcUR4VDX8ZfuN9+9HNxVc2/9zovlMwqf
+m7fvChOvP1ento6c/PLZpl+v/7JiS+heafLM1SN1ny+cvqvj3ECf01MSF5dmfry0
+vHngM7zh7hdvHGsumP3q2ck2qbhtx2is5shQS/bao6VPu938nO1upsgcOXCnq2dB
+suFw2/tfrbmwomts+JPVe3+6/nrZUGv75A/ZyrotG1vLV3XnltY/NM0oeEp55tSm
+zolZsQs3975FJP7Q0ZtjV4Y7hpOvfFNvVNxacF8ri/U1/Tn5YUVndti/qqL/iaFN
+HzCppofXFj7Zfmr0tUdyguOdixqX7OZqxoTTVb9/3599s3FdeuGdjwtu1Z7fV7lz
+PP/5B/f8ZuyWxT2D+evzgnNuny/Mu7zW3Hxwg9PX9XUoZv787vKM/c7SP+rRjdW9
+K9OJnP3zNl8Lrvy0pGTkcTd4UlLW9JWn7OLJE4+9nHspkDkzevjs/uL5F8c/Ovjd
+1f6WlttzJwreG1y848TIkrz8YKpML0s39jYs+ws=
+=VSZq
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/goltz20707
+
+==================================================================
