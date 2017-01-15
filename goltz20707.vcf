@@ -14,7 +14,7 @@ IMPP;TYPE=personal,pref:xmpp:goltz20707@swissjabber.ch
 X-SOCIALPROFILE;type=twitter;x-user=goltz20707:http://twitter.com/goltz20707
 X-SOCIALPROFILE;type=facebook;x-user=jim.goltz1:http://www.facebook.com/jim.goltz1
 X-SOCIALPROFILE;type=linkedin;x-user=goltz20707:http://www.linkedin.com/in/goltz20707
-KEY;MEDIATYPE=application/pgp-keys:http://keys.gnupg.net/pks/lookup?search=0x248FBEE8
+KEY;MEDIATYPE=application/pgp-keys:https://keybase.io/goltz20707/pgp_keys.asc?fingerprint=a8eba189c2a8431a30f699ae7fa6a207248fbee8
 SOURCE:https://goltz20707.mmert.org/goltz20707.vcf
 REV:20161204T210757Z
 END:VCARD
