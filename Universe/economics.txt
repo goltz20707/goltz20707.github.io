@@ -1,0 +1,231 @@
+!Introduction!
+
+A favorite (now cancelled) TV show of mine, /Firefly/, is a break from
+the usual TV SF fare.  Rather than being members of the military or
+intrepid explorers, the main characters in the show are crewmembers of
+a small transport ship, /Serenity/; and instead of saving the Galaxy
+or discovering strange new worlds, they're just trying to make a
+living -- honest or otherwise.
+
+That got me to wondering how feasible it would be for someone to make
+an honest living in the /Universe/ universe as a ship owner.  I
+decided to do a few cost analyses to see what kind of revenue and
+expenses there would be, and if the profit could justify the
+undertaking.
+
+I made a few basic assumptions:
+
+  1. The voyages I would consider would be from one starport to
+     another, one way.  I would not take the energy expenditure of
+     ship takeoffs into account.  (Things would be complicated enough
+     as they were!)
+
+  2. There would be no shortage of passengers or cargo.  All berths
+     would be filled, every ton of cargo capacity used.  (Later on I
+     would consider things like the minimum number of passengers
+     needed to break even.)
+
+  3. Energy is list price; it's not abundant or scarce anywhere.
+
+  4. Ships would accelerate at 1 G unless they needed to go slower for
+     econimic reasons.
+
+
+!Trade goods!
+
+  Prices of anything in /Universe/ that costs more than 1 Tran (1 T)
+  -- in other words, anything interesting -- are all affected by the
+  /Actual Price Table/.  This table adjusts the prices of goods and
+  materials semi-randomly, between 50% and 200% of their listed
+  price.  The die roll that determines price is affected by whether
+  the item is manufactured on-planet or imported, whether it's
+  exported to other planets, whether it's higher-tech than the
+  planet's current technological base, and whether or not it's legal.
+  On average, prices work out like this:
+
+      Exported item      77%
+      Normal		106%
+      Imported item	144%
+      +1 Civ Level	165%
+      +2 Civ Levels    1060%
+
+  (Raw materials, like bulk aluminum or silicon, are affected
+  similarly.  Substitute "abundant" for "exported", "not found on
+  world" for "imported", and ignore Civ Level adjustments.)
+
+  Illegal items -- which includes military-issue weapons, restricted
+  items without a permit, and anything more than two Civ Levels above
+  the prevailing tech -- have their price multiplied by 10 times the
+  Law Level of the world, in addition to the adjustments above.
+
+  Now, obviously the greatest profit to be had is in high-tech goods
+  manufactured off-planet.  CL8 body armor, for example, runs an
+  average of 35 T on a planet with iron and abundant gold, but sells
+  for 487 T on a CL6 planet, and even more on a lower tech planet.
+  Compare that to 66 T on a high-tech planet that just doesn't happen
+  to have abundant gold.
+
+  A greater profit might be had in items that are illegal for their
+  own sake, like military weapons.  But the Actual Price Table affects
+  buying and selling both, so unless the ship owner has a special
+  supplier willing to sell at less than the standard illegal-item
+  price, the profit is diminished (and the risks increased).
+
+  Raw materials fetch much less of a profit.  The most expensive
+  material is magnetic monopoles, at 2 T per gram.  However, it's only
+  available at single sites (per the World Resource Table), and so
+  only one gram of ore is mined at a time (see the Mining skill
+  description).  The most valuable bulk commodities are gold and
+  platinum: each fetches 1 T per gram, but the right mine can produce
+  kilograms of gold ore.  Most other materials are priced in trans per
+  metric ton; the most valuable of these is cesium at 50 T/ton.  This
+  is far below the price of manufactured goods.  CL8 body armor weighs
+  16 kg per unit; even with packaging, that's at least 30 units per
+  ton, or a list price of 1,380 T/ton!
+
+  So we can draw three conclusions from this:
+
+  1. Manufactured goods are far more profitable than raw materials.
+
+  2. Illegal goods are far more profitable than legal ones.
+
+  3. Very illegal goods -- i.e., weapons -- are the most profitable of
+     all.
+
+
+!A typical trip!
+
+  Let's try an example trip, from Petromir (82 Eridani II) to
+  Terraster (Delta Pavonis III), a distance of 19 light-years (LY).
+  Our ship for this exercise is a Corco /Mu/, one of the bigger
+  commercial ships.
+
+  From Petromir to the 82 Eridani jump point is 87.5 AU (90 AU for a
+  G-class star minus 2.5 AU for Petromir's orbit).  The /Mu/ has a
+  hefty burn rate of 16, so covering 87.5 AU at 1 G takes 432 energy
+  units.
+
+  The jump takes no additional energy.  (This becomes important
+  below.)
+
+  Finally, traversing the distance from the Delta Pavonis jump point
+  to Terraster is a journey of 88.5 AU (Delta Pavonis is alco class G,
+  but Terraster orbits only 1.5 AU from it).  The difference in
+  distance turns out to be negligible, and we expend another 432
+  units.  Our total energy for this voyage is therefore 864 units.
+
+  The /Mu/ can hold 176 units in its hull, so we need to have
+  sufficient space for another 688 units.  Energy pods hold 144 units
+  each, so that's another five pods (rounding up).  /Mu/-class hulls
+  aren't streamlined, so we can cram two energy pods into the space
+  normally needed for one.  So we only need three pod "berths" (again,
+  rounding up) for our five pods.  The /Mu/ can hold 12 pods total, so
+  we have nine berths to fill up with our chosen combination of pods.
+
+  For purposes of this example, we're only interested in three kinds
+  of pods: standard cargo, standard passenger, and luxury passenger.
+  (Petromir to Terraster is a green route, so we can take on luxury
+  passengers.)  We'll look at four different scenarios:
+
+  1. All cargo.  Nine cargo pods and no passengers (apart from those
+     that can fit in the hull).
+
+  2. Standard passenger.  Nine standard passenger pods.
+
+  3. Uprated passenger.  Three luxury and six standard passenger pods.
+
+  4. Hybrid.  One luxury passenger pod, three standard passenger, five
+     cargo.
+
+  !!Revenue!!
+
+    Standard fare is 20 milliTrans (mT) per AU plus 100 mT per LY, or
+    5.5 T.  Luxury fare is 2 1/2 times that, or 13.75 T.  It's hard to
+    say what we'd get for our cargo, because it varies so much.  But we
+    can calculate how much it would have to be for us to break even.
+
+  !!Expenses!!
+
+    We already know we need 864 units of energy (cost: 259.2 T).
+    Leaving aside salaries, supplies and other (relatively) minor
+    costs, there's one big cost: the ship itself.
+
+    A Corco /Mu/ costs 14,500 T, and that's without pods.  Luxury
+    cabin pods are 1,500 T each, standard cabin 1,200 T, and cargo
+    pods a measly 35 T.  The total price varies from 15,515 T (option
+    1) to 26,900 T (option 3).  It's unlikely most people would be
+    able to pay this out of pocket, so they'll probably get a loan
+    from a bank.
+
+    For our discussion we'll assume 10% down and an 8% APR compounded
+    monthly.
+
+
+  !!All cargo!!
+
+    A Corco /Mu/ with nine cargo pods can hold 315 tons of cargo in
+    its pods and an additional 15 in the hull, for a total of 330
+    tons.  The ship costs 15,515 T; monthly payments on our loan are
+    about 168 T.  Our trip from Petromir to Terraster takes about 1.75
+    months, so prorating the payment and adding it to the fuel cost
+    gives us a total cost for the voyage of about 553 T.  Dividing the
+    numbers, we need to make at least 1.68 T per ton to break even.
+
+    Not too bad.  We could even turn a profit like that on some of the
+    raw materials, like titanium or crude oil (carbon-based organic
+    chemicals).  It'd be a snap if we're shipping manufactured goods.
+    (Assuming we can fill the hull, of course.)  And we can still
+    carry 25 passengers in the hull (standard fare only).
+
+  !!All passenger!!
+
+    Standard passenger pods hold 30 passengers; nine of these plus 30
+    in the hull is a total of 300 passengers.  But wait!  The ship
+    needs five crew members, and each passenger pod another three.
+    That's a total of 32 crew, so we really only have room for 268
+    paying passengers.  Also, the ship now costs 26,000 T, for a
+    per-trip prorated payment of 493 T.
+
+    Still, at 5.5 T per passenger, that's 1,474 T revenue, 921 T above
+    expenses.  Much better than cargo; we can travel just over half
+    full and still break even.
+
+  !!Uprated passenger!!
+
+    Replacing three of the standard cabin pods with luxury cabin pods
+    costs us 51 passengers (luxury cabin pods only hold 15 and require
+    a crew of 5), but each one is paying two and a half times standard
+    fare.  The ship now costs 26,900 T and payment is 510 T, but our
+    revenue goes up to about 1,565 T.  If we fill every luxury cabin
+    we only need 28 standard-fare passengers to break even.  Of
+    course, we also now have to pay salary for 38 crew (or split
+    profits 38 ways), not 32, because luxury cabin pods require five
+    crew each.  (Maybe the additional two are in charge of pillow
+    mints.)
+
+  !!Hybrid!!
+
+    A compromise: five cargo pods, three standard cabin, one luxury
+    cabin for the filthy rich.  The ship only costs 20,475 T, for a
+    trip payment of 388 T on revenue of 762 T.  Even without cargo, we
+    can make a (small) profit, provided we find 101 people willing to
+    pay 5.5 T each and another 15 willing to pay 13.75 T per head.
+
+!Passengers versus cargo!
+
+  You may have noticed something in the discussions above.  If our
+  trip had been five LY instead of 19, the cargo wouldn't care, but
+  passengers would only be paying 1.4 T less per head.  We've seen how
+  passengers are more profitable than cargo; for sufficiently short
+  voyages, this may not be true (or will at least be less true).
+
+!Small ships!
+
+  The above example is for a large ship.  If we substitute a 
+  Another example: Corco Gamma
+
+    3 pods, streamlined; if accelerating at 1 G, need all three for
+      fuel -- can't break even, even on cargo
+    Coasting -- can't take on normal passengers, certainly not
+      luxury.  Even coasting, cargo has to sell for 5.75 T/ton just to
+      break even.
