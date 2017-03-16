@@ -1,0 +1,138 @@
+---
+layout: default
+title: "goltz20707/Universe"
+descr: "Universe: Environ maps"
+---
+
+<h1><span class="sc">Universe</span> Environ Maps</h1>
+
+<p>In <span class="sc">Universe</span>, planetary surface maps are
+represented as concentric rings of equal-area regions, or "environs".
+Each environ is approximately 16,000,000 km<sup>2</sup> (<span
+class="si">1 600 ha</span>) in area. (See <a href="../sizes.shtml">my page
+on planet sizes</a>.)</p>
+
+<p class="note">I hope to have diagrams soon which show the
+different environs 
+for different sized planets. For now, imagine a circle of radius <var>R</var>,
+then another circle of radius 3<var>R</var> around that, then another
+of radius 5<var>R</var>, and so forth. The area between the
+<var>R</var> and 3<var>R</var> circles is divided into four equal
+parts; the area between 3<var>R</var> and 5<var>R</var> is divided
+into eight parts; then twelve, then sixteen, and so on. A size 0 world
+is a single radius <var>R</var> circle. A size 1 world is two of these
+representing two hemispheres. Size 2 worlds are one radius
+<var>R</var> map and one radius 3<var>R</var> map, for a total of 12
+environs.</p>
+
+<p>Now, we can see that, for worlds of size 2 or greater, the north
+and south polar regions can be represented by circular map
+projections. For worlds of size 2, 4, 6, or 8, the outermost ring of
+environs on the larger "hemisphere" is a cylindrical band. The rest of
+the environ rings can be represented as the base of a cone which intersects
+the planetary sphere at the latitude circles represented by the inner
+and outer boundaries of the ring.</p>
+
+<p>If we assume that each ring is of equal width in latitude, and that
+the polar regions' radii are one-half of this width (an assumption
+that make sense looking at the maps), then we can calculate (from the
+maps and the calculate sizes of the planets) the dimensions of the
+circles, cylindrical bands, and conic bases; and we can then divide
+the bands and bases into equal-sized environs.</p>
+
+<p>The results are the maps below. The per-hex scale is the same as the
+rectangular environ map in the book: one hex equals <span
+class="si">100 km</span>. Because of size limitations, there are ten
+hexes per inch, not five.</p>
+
+<p>The maps are not complete; I'd like to
+add details such as: latitudes of boundaries;
+ neighboring environ boundaries; fill-in blanks for
+environ number, predominant terrain type, and other features; and
+possibly hex numbering. But this is a start.</p>
+
+<ul>
+<li>Size 0
+  <ul>
+  <li><a href="pole-0.pdf">"Polar" (n01)</a></li>
+  </ul>
+<li>Size 1
+  <ul>
+  <li><a href="pole-1.pdf">Polar (n01, s01)</a></li>
+  </ul>
+<li>Size 2
+  <ul>
+  <li><a href="pole-2.pdf">Polar (n01, s01)</a></li>
+  <li><a href="equator-2.pdf">Equatorial (n02-n05)</a></li>
+  </ul>
+<li>Size 3
+  <ul>
+  <li><a href="pole-3.pdf">Polar (n01, s01)</a></li>
+  <li><a href="cone-3-1.pdf">Lower latitudes (n02-n05, s02-s05)</a></li>
+  </ul>
+<li>Size 4
+  <ul>
+  <li><a href="pole-4.pdf">Polar (n01, s01)</a></li>
+  <li><a href="cone-4-1.pdf">Mid-latitude (n02-n05, s02-s05)</a></li>
+  <li><a href="equator-4.pdf">Equatorial (n06-n13)</a></li>
+  </ul>
+<li>Size 5
+  <ul>
+  <li><a href="pole-5.pdf">Polar (n01, s01)</a></li>
+  <li><a href="cone-5-1.pdf">Mid-latitude (n02-n05, s02-s05)</a></li>
+  <li><a href="cone-5-2.pdf">Lower latitudes (n06-n13, s06-s13)</a></li>
+  </ul>
+<li>Size 6
+  <ul>
+  <li><a href="pole-6.pdf">Polar (n01, s01)</a></li>
+  <li><a href="cone-6-1.pdf">Mid-latitude (n02-n05, s02-s05)</a></li>
+  <li><a href="cone-6-2.pdf">Lower latitudes (n06-n13, s06-s13)</a></li>
+  <li><a href="equator-6.pdf">Equatorial (n14-n25)</a></li>
+  </ul>
+<li>Size 7
+  <ul>
+  <li><a href="pole-7.pdf">Polar (n01, s01)</a></li>
+  <li><a href="cone-7-1.pdf">Higher latitude (n02-n05, s02-s05)</a></li>
+  <li><a href="cone-7-2.pdf">Middle latitudes (n06-n13, s06-s13)</a></li>
+  <li><a href="cone-7-3.pdf">Lower latitudes (n14-n25, s14-s25)</a></li>
+  </ul>
+<li>Size 8
+  <ul>
+  <li><a href="pole-8.pdf">Polar (n01, s01)</a></li>
+  <li><a href="cone-8-1.pdf">Higher latitude (n02-n05, s02-s05)</a></li>
+  <li><a href="cone-8-2.pdf">Middle latitudes (n06-n13, s06-s13)</a></li>
+  <li><a href="cone-8-3.pdf">Lower latitudes (n14-n25, s14-s25)</a></li>
+  <li><a href="equator-8.pdf">Equatorial (n26-n41)</a></li>
+  </ul>
+<li>Size 9
+  <ul>
+  <li><a href="pole-9.pdf">Polar (n01, s01)</a></li>
+  <li><a href="cone-9-1.pdf">Higher latitude (n02-n05, s02-s05)</a></li>
+  <li><a href="cone-9-2.pdf">Upper middle latitudes (n06-n13, s06-s13)</a></li>
+  <li><a href="cone-9-3.pdf">Lower middle latitudes (n14-n25, s14-s25)</a></li>
+  <li><a href="cone-9-4.pdf">Lower latitudes (n26-n41, s26-s41)</a></li>
+  </ul>
+</ul>
+
+<p><em><a href="/~goltz/Universe/">Return to <span class="sc">Universe<!--#echo encoding="none" var="trade" --></span>
+pages</a></em><br />
+<em><a href="/~goltz/">Return to Jim Goltz's home page</a></em></p>
+
+<address>James P. Goltz &lt;<a href=
+"mailto:goltz@mmert.org">goltz@mmert.org</a>&gt;</address>
+
+  <p>
+    <a href="http://validator.w3.org/check/referer"><img
+        src="/images/valid-xhtml10"
+        alt="Valid XHTML 1.0!" height="31" width="88" /></a>
+    <a href="http://jigsaw.w3.org/css-validator/">
+    <img 
+         src="/images/vcss" 
+	 alt="Valid CSS!" /></a>
+<!-- style="border:0;width:88px;height:31px" -->
+
+  </p>
+
+</body>
+</html>
+
