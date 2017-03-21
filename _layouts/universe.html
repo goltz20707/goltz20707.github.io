@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="DESCRIPTION" content="{{ page.descr }}" />
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/css/styles.css" type="text/css" />
+    <link rel="stylesheet" href="/css/github-dark.css" type="text/css" />
+    <link rel="stylesheet" href="/css/universe.css" type="text/css" />
+    <link rel="canonical" href=" { { site.url } }{ { page.url } }" />
+  </head>
+
+  <body>
+    <script type="text/javascript">
+      var host = "goltz20707.mmert.org";
+      if ((host == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+    </script>
+    
+    {{ content }}
+
+    {% include footer.html %}
+    
+  </body>
+  
+</html>
