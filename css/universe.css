@@ -44,4 +44,8 @@ dt {
 
 /* Defaults for various tags. */
 /* h1 { font-family: sans-serif; } */
-h2 { font-family: 'PumpRus', sans-serif; }
+h2 {
+    font-variant: small-caps;
+    font-family: 'PumpRus', sans-serif;
+}
+
