@@ -6,9 +6,6 @@
    http://www.w3.org/TR/CSS2/.
 */
 
-/* Use a font from the Google Fonts API: */
-@import url("https://fonts.googleapis.com/css?family=Pinyon+Script");
-
 /* Overall defaults. */
 body { max-width: 900px; margin: 25px; }
 
@@ -43,4 +40,4 @@ dt {
 
 /* Defaults for various tags. */
 /* h1 { font-family: sans-serif; } */
-h2 { font-family: 'Pinyon Script', cursive; }
+h2 { font-family: 'PumpRus', sans-serif; }
